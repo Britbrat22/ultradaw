@@ -1,0 +1,28 @@
+# Core Audio Processing
+torch==2.0.0+cpu
+torchaudio==2.0.0+cpu
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+scipy==1.10.1
+
+# GUI Framework
+PyQt5==5.15.9
+PyQt5-tools==5.15.9.2.3
+
+# Configuration & Utilities
+pyyaml==6.0
+tqdm==4.65.0
+matplotlib==3.7.1
+Pillow==10.0.0
+
+# AI Models
+demucs==4.0.0
+musicgen-trainer==1.0.0
+auphonic==0.3.0
+transformers==4.30.2
+
+# Development Tools
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
